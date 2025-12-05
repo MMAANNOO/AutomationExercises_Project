@@ -1,0 +1,34 @@
+{
+  "validUser": {
+    "email": "manoo@mail.com",
+    "password": "Password123#"
+  },
+  "invalidUser": {
+    "email": "invalid@mail.com",
+    "password": "wrongpassword"
+  },
+  "existingUser": {
+        "name": "Mahmoud",
+        "email": "mahmoud@mail.com"
+  },
+  "ContactForm": {
+        "name": "Mahmoud Ahmed",
+        "email": "mahmoud@mail.com",
+        "subject": "Test Subject - Automation",
+        "message": "This is a test message from automation testing. "
+  },
+  "ProductName": {
+        "name": "Madame Top For Women"
+  },
+  "VerifySubscribtion": {
+        "email": "mahmoud@mail.com"
+  },
+  "VerifySubscribtionCartPage": {
+        "email": "mahmoud@mail.com"
+  },
+  "ProductDetail": {
+        "name": "Mahmoud Ahmed",
+        "email": "mano@mail.com",
+        "review": "This Product is AMAZING"
+  }
+}
